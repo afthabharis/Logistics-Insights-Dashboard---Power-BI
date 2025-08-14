@@ -1,5 +1,6 @@
 # Logistics-Insights-Dashboard---Power-BI
-Transforming logistics through data : Power BI storytelling dashboard
+Transforming logistics through data : Power BI storytelling dashboard.
+
 Excited to share the culmination of a comprehensive data analytics project where I built an interactive Logistics Dashboard in Power BI—designed to uncover actionable insights and optimize supply chain performance.
 
 This dashboard was built with a strong focus on storytelling, helping stakeholders understand critical logistics metrics at a glance. Here's what it covers:
